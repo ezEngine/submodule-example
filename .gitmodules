@@ -1,0 +1,4 @@
+[submodule "ezEngine"]
+	path = ezEngine
+	url = https://github.com/ezEngine/ezEngine.git
+	branch = dev
